@@ -50,12 +50,12 @@ Com o auxílio do CSS implementamos um design eficiente e de fácil usabilidade.
 </div>
 <br/>
 <p align= "left">
-<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%201jpg.jpg?raw=true" width="300" />
-<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%202.jpg?raw=true" width="300" />
-<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%203.jpg?raw=true" width="300" /> 
-<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%204.jpg?raw=true" width="300" />  
-<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%205.jpg?raw=true" width="300" />
-<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%206.jpg?raw=true" width="300" /> 
+<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%201jpg.jpg?raw=true" width="330" />
+<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%202.jpg?raw=true" width="330" />
+<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%203.jpg?raw=true" width="330" /> 
+<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%204.jpg?raw=true" width="330" />  
+<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%205.jpg?raw=true" width="330" />
+<img src = "https://github.com/YasmimGama/EguaBurger/blob/patch-1/%C3%89GUABURGUER%20TELA%206.jpg?raw=true" width="330" /> 
 </p>
 
 ## 6. Instruções de Execução
